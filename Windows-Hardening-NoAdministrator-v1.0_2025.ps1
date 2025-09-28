@@ -118,8 +118,9 @@ Write-Host "`n===== [Step 10/11] (Optional) Installing Sysmon... =====" -Foregro
 
 # ===== Step 11: Completion =====
 Write-Host "`n=================================================" -ForegroundColor Cyan
-Write-Host "  Hardening Script Completed!" bye 0xAllow!
+Write-Host "  Hardening Script Completed! bye 0xAllow! "
 Write-Host "=================================================" -ForegroundColor Cyan
 Write-Warning "`nA system reboot is REQUIRED for changes like Credential Guard to take effect."
 Write-Warning "After rebooting, please test your applications for compatibility."
+
 Read-Host "Press Enter to exit."
