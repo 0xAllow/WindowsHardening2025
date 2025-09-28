@@ -1,4 +1,4 @@
-Simple Powershell Windows Hardening 2025 v1.0 by 0x Allow
+Simple Powershell Windows Hardening 2025 v1.0 by 0xAllow
 
 # Windows 11 Hardening Script - 2025 Edition
 
